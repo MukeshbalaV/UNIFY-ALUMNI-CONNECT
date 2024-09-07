@@ -22,3 +22,32 @@ UNIFY Alumni Connect is a mobile application built to help alumni of an institut
 1. Clone the repository:
    ```bash
    git clone https://github.com/MukeshbalaV/UNIFY-ALUMNI-CONNECT.git
+
+
+2. Navigate to the project directory:
+   ```bash
+   cd UNIFY-ALUMNI-CONNECT
+   ```
+
+3. Install dependencies:
+   ```bash
+   flutter pub get
+   ```
+
+4. Connect Firebase for backend services.
+
+5. Run the app:
+   ```bash
+   flutter run
+   ```
+
+## Smart India Hackathon 2024
+
+This project was developed for **Smart India Hackathon 2024**. All rights to this project are reserved by the team.
+
+## License
+
+All rights reserved.
+```
+
+This is ready to be used as your `README.md` file.
