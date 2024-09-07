@@ -49,4 +49,3 @@ This project was proudly developed for **Smart India Hackathon 2024**. All right
 All rights reserved. © 2024 🎉
 ```
 
-This version uses emojis to make the content more engaging and visually attractive.
